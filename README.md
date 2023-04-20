@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ### About Me
 I'm Kevin Shehan, a self learning Programmer (specializing in React & Node Js Applications) and a Freelancer.
 <!--
