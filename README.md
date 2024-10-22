@@ -1,5 +1,7 @@
+
+![687474~1](https://github.com/user-attachments/assets/38cf686c-dea6-47ef-8d5f-bfff17fdf2e6)
 <h1 align="center">Hi there 👋, I'm Kevin Shehan</h1>
-<h3 align="center">a self learning Programmer (specializing in React & Node Js Applications) and a Freelancer from Sri Lanka. Youtuber</h3>
+<h3 align="center">A self learning Programmer (specializing in React & Node Js Applications) and a Freelancer from Sri Lanka. Youtuber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinshehan&label=Profile%20views&color=0e75b6&style=flat" alt="kevinshehan" /> </p>
 
